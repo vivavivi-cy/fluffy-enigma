@@ -8,4 +8,4 @@ Altre info importantissime
 
 Foto di un gattino che miagola
 
-![gattino-carino](./github/img/kitten.jpg)
+![gattino-carino](/img/kitten.jpg)
